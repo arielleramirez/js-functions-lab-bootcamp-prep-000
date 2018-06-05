@@ -9,3 +9,7 @@ function happyHolidays(string){
   function happyHolidaysTo(string){
     return `happyHolidaysTo, ${holiday},${name}!`
   }
+  
+  function happyHolidaysTo(string){
+    return `It\'s ${days} days until ${holiday}!`
+  }
