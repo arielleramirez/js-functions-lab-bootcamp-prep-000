@@ -6,4 +6,6 @@ function happyHolidays(string){
     return `happyHolidaysTo, ${name}!`
   }
   
-  
+  function happyHolidaysTo(string){
+    return `happyHolidaysTo, ${holiday},${name}!`
+  }
